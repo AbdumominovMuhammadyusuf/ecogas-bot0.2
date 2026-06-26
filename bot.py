@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 # ─── SOZLAMALAR ───────────────────────────────────────────────
-BOT_TOKEN = "8915481456:AAGHoyqy8sslfhbk-BRe6j6RRsddFm94S-g"
+BOT_TOKEN = "8915481456:AAHuDL19HRV91gURTF6XiYfa5BUcbJGwnAs"
 OPERATOR_CHAT_ID = "8498320053"
 
 logging.basicConfig(
